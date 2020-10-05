@@ -1,0 +1,4 @@
+mern-exercise-tracker/node_modules/*
+.env
+
+
